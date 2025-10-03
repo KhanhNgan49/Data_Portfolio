@@ -1,6 +1,5 @@
 #  Data Portfolio
 
-Chào mừng đến với Portfolio của Lê Thái Khánh Ngân!  
 Repo này bao gồm các project về **SQL**, **Power BI**, và **Python** thể hiện kỹ năng phân tích dữ liệu từ truy vấn, trực quan hóa đến báo cáo.
 
 ##  Project 1: SQL – Sales Data Analysis
